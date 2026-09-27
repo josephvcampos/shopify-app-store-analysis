@@ -1,0 +1,5 @@
+1 - The Total Review Card shows 7.980 because I not only removed the duplicates which it dropped from 8,240 to 8,000. But afterwards I filtered the rating columns on
+the reviews table so it would only show to me reviews with ratings between 1 and 5. So when that filter was applied to the column, the number of rows dropped
+from 8,000 to 7,980. 
+
+So I will keep the Total Reviews Card as it is.
