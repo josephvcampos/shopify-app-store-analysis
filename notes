@@ -3,3 +3,6 @@ the reviews table so it would only show to me reviews with ratings between 1 and
 from 8,000 to 7,980. 
 
 So I will keep the Total Reviews Card as it is.
+
+2 - I've added an information button on the time intelligence page, warning that 2023 is a partial year which its data ends in June. It can be clearly seen at the 
+trend_analysis screenshot.
